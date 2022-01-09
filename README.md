@@ -29,7 +29,13 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 | Hotjar     | https://github.com/hotjar/hotjar-js/pull/10      |
 | NgxCharts  | https://github.com/swimlane/ngx-charts/pull/1637 |
 
-## 💸 How to support me:
+## ✍️ I've written about
+
+- [Unit Testing in 2022](https://medium.com/@bobbyg603/unit-testing-software-in-2022-b3ac00962c65)
+- [Customizing the Unreal Engine Crash Report Client Dialog](https://www.bugsplat.com/blog/game-dev/customizing-ue4-crash-dialog/)
+- [How to Build Crashpad (C++ Crash Reporter)](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad/how-to-build-google-crashpad)
+
+## 💸 How to support me
 
 ![bitcoin badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
@@ -38,21 +44,6 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 ![bitcoin addresss](assets/bitcoin.png)
 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 [<img src="assets/envelope.svg" width="72px">](mailto:bobbyg603@gmail.com)
-
-<!--
-**bobbyg603/bobbyg603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
