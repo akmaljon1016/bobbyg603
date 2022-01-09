@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=bobbyg603)
 
-I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time-Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful girlfriend Cassie ❤️.
-
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603)
 [![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/bobbyg603)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K4KjjRV5ve)
@@ -11,9 +9,13 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
 
+## 🙋‍♂️ About me
+
+I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time-Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful girlfriend Cassie ❤️.
+
 ## 🔭 I'm currently working on
 
-[![bugsplat slingshot](assets/bugsplat-slingshot-small.png)](https://github.com/BugSplat-Git)
+[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" width="200px">](https://github.com/BugSplat-Git)
 
 ## 🌱 I’m currently learning
 
