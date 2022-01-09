@@ -41,7 +41,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 1KP6eP12NmJhcDertoW2nke2s4oiu5Lhd3
 
-![bitcoin addresss](assets/bitcoin.png)
+<img src="assets/bitcoin.png" alt="bitcoin address" width="200px">
 
 
 ## 📫 How to reach me
