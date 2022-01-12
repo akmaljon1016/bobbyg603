@@ -32,6 +32,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 ## ✍️ I've written about
 
 - [Unit Testing in 2022](https://medium.com/@bobbyg603/unit-testing-software-in-2022-b3ac00962c65)
+- [Crash Course in Crash Grouping](https://www.bugsplat.com/blog/product/crash-course-in-grouping/)
 - [Customizing the Unreal Engine Crash Report Client Dialog](https://www.bugsplat.com/blog/game-dev/customizing-ue4-crash-dialog/)
 - [How to Build Crashpad (C++ Crash Reporter)](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad/how-to-build-google-crashpad)
 
@@ -41,7 +42,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 1KP6eP12NmJhcDertoW2nke2s4oiu5Lhd3
 
-<img src="assets/bitcoin.png" alt="bitcoin address" width="200px">
+<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">
 
 
 ## 📫 How to reach me
