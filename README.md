@@ -40,10 +40,9 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ![bitcoin badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-[1KP6eP12NmJhcDertoW2nke2s4oiu5Lhd3](https://www.blockchain.com/btc/address/1KP6eP12NmJhcDertoW2nke2s4oiu5Lhd3)
+[1JEmxKZhh4ix8FfsN1Jhe1XdMpu7PEfEm1](https://www.blockchain.com/btc/address/1JEmxKZhh4ix8FfsN1Jhe1XdMpu7PEfEm1)
 
 <img src="assets/bitcoin.png" alt="bitcoin address" width="180px">
-
 
 ## 📫 How to reach me
 
