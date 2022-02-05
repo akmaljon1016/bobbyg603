@@ -47,4 +47,4 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.svg" width="72px">](mailto:bobbyg603@gmail.com)
+[<img src="assets/envelope.svg" width="72px">](mailto:bobbyg603@pm.me)
