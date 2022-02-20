@@ -31,6 +31,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## ✍️ I've written about
 
+- [GitHub Status Checks and Branch Protection Made Easy](https://medium.com/@bobbyg603/github-status-checks-and-branch-protection-made-easy-b70d6d9ffc76)
 - [Unit Testing in 2022](https://medium.com/@bobbyg603/unit-testing-software-in-2022-b3ac00962c65)
 - [Crash Course in Crash Grouping](https://www.bugsplat.com/blog/product/crash-course-in-grouping/)
 - [Customizing the Unreal Engine Crash Report Client Dialog](https://www.bugsplat.com/blog/game-dev/customizing-ue4-crash-dialog/)
