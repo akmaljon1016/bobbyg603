@@ -23,11 +23,14 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 🔨 I've contributed to
 
-| Repository | Link                                             |
-|------------|--------------------------------------------------|
-| Angular    | https://github.com/angular/angular/pull/43621    |
-| Hotjar     | https://github.com/hotjar/hotjar-js/pull/10      |
-| NgxCharts  | https://github.com/swimlane/ngx-charts/pull/1637 |
+| Repository              | Link                                                    |
+|-------------------------|---------------------------------------------------------|
+| Angular                 | https://github.com/angular/angular/pull/43621           |
+| Hotjar                  | https://github.com/hotjar/hotjar-js/pull/10             |
+| NgxCharts               | https://github.com/swimlane/ngx-charts/pull/1637        |
+| ngb-filterable-dropdown | https://github.com/BugSplat-Git/ngb-filterable-dropdown |
+| ngx-animated-counter    | https://github.com/BugSplat-Git/ngx-animated-counter    |
+| ngx-toggle              | https://github.com/bobbyg603/ngx-toggle                 |
 
 ## ✍️ I've written about
 
