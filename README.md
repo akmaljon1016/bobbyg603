@@ -34,6 +34,9 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## ✍️ I've written about
 
+- [Git-Filter-Repo Submodule Extraction](https://levelup.gitconnected.com/git-filter-repo-submodule-extraction-fb84de4c0ed6)
+- [How To Build a Strongly Typed Angular 14 Super Form](https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5)
+- [3 and 1/2 Reasons Why Your Tests Should Be Stateless](https://betterprogramming.pub/3-and-1-2-reasons-why-your-tests-should-be-stateless-ad93441705fe)
 - [File Uploads with Angular and RxJS](https://medium.com/better-programming/file-uploads-with-angular-and-rxjs-34262b3450ae)
 - [CI/CD for Angular Developers](https://medium.com/@bobbyg603/ci-cd-for-angular-developers-be9a1485d22b)
 - [GitHub Status Checks and Branch Protection Made Easy](https://medium.com/@bobbyg603/github-status-checks-and-branch-protection-made-easy-b70d6d9ffc76)
