@@ -11,7 +11,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
 
-I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time-Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful girlfriend Cassie ❤️.
+I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time-Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful fiancé Cassie ❤️.
 
 ## 🔭 I'm currently working on
 
@@ -31,9 +31,13 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 | ngb-filterable-dropdown | https://github.com/BugSplat-Git/ngb-filterable-dropdown |
 | ngx-animated-counter    | https://github.com/BugSplat-Git/ngx-animated-counter    |
 | ngx-toggle              | https://github.com/bobbyg603/ngx-toggle                 |
+| is-image-web            | https://github.com/bobbyg603/is-image-web               |
+| is-video-web            | https://github.com/bobbyg603/is-video-web               |
+| is-video                | https://github.com/sindresorhus/is-video/pull/5         |
 
 ## ✍️ I've written about
 
+- [How to Build a Linux Shared Library](https://medium.com/better-programming/how-to-build-a-linux-shared-library-f5b574b0c08e)
 - [Git-Filter-Repo Submodule Extraction](https://levelup.gitconnected.com/git-filter-repo-submodule-extraction-fb84de4c0ed6)
 - [How To Build a Strongly Typed Angular 14 Super Form](https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5)
 - [3 and 1/2 Reasons Why Your Tests Should Be Stateless](https://betterprogramming.pub/3-and-1-2-reasons-why-your-tests-should-be-stateless-ad93441705fe)
