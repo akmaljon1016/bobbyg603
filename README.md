@@ -53,7 +53,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ![bitcoin badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-[1JEmxKZhh4ix8FfsN1Jhe1XdMpu7PEfEm1](https://www.blockchain.com/btc/address/1JEmxKZhh4ix8FfsN1Jhe1XdMpu7PEfEm1)
+[bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg](https://www.blockchain.com/btc/address/bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg)
 
 <img src="assets/bitcoin.png" alt="bitcoin address" width="180px">
 
