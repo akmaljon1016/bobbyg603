@@ -20,6 +20,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 ## 🌱 I’m currently learning
 
 [![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
 
 ## 🔨 I've contributed to
 
@@ -37,15 +38,15 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## ✍️ I've written about
 
+- [How to Build a Web Component with Lit Elements](https://bobbyg603.medium.com/how-to-build-a-web-component-with-lit-elements-d88684a46e56)
+- [Crash Course in .NET Tools](https://levelup.gitconnected.com/crash-course-in-net-tools-b2d84fd5074e)
 - [How to Build a Linux Shared Library](https://medium.com/better-programming/how-to-build-a-linux-shared-library-f5b574b0c08e)
-- [Git-Filter-Repo Submodule Extraction](https://levelup.gitconnected.com/git-filter-repo-submodule-extraction-fb84de4c0ed6)
-- [How To Build a Strongly Typed Angular 14 Super Form](https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5)
-- [3 and 1/2 Reasons Why Your Tests Should Be Stateless](https://betterprogramming.pub/3-and-1-2-reasons-why-your-tests-should-be-stateless-ad93441705fe)
+- [How To Build a Strongly Typed Angular Super Form](https://betterprogramming.pub/how-to-build-a-strongly-typed-angular-14-super-form-86837965a0e5)
 - [File Uploads with Angular and RxJS](https://medium.com/better-programming/file-uploads-with-angular-and-rxjs-34262b3450ae)
 - [CI/CD for Angular Developers](https://medium.com/@bobbyg603/ci-cd-for-angular-developers-be9a1485d22b)
 - [GitHub Status Checks and Branch Protection Made Easy](https://medium.com/@bobbyg603/github-status-checks-and-branch-protection-made-easy-b70d6d9ffc76)
-- [Unit Testing in 2022](https://medium.com/@bobbyg603/unit-testing-software-in-2022-b3ac00962c65)
-- [Crash Course in Crash Grouping](https://www.bugsplat.com/blog/product/crash-course-in-grouping/)
+- [3 and 1/2 Reasons Why Your Tests Should Be Stateless](https://betterprogramming.pub/3-and-1-2-reasons-why-your-tests-should-be-stateless-ad93441705fe)
+- [Unit Testing in 2023](https://medium.com/@bobbyg603/unit-testing-software-in-2022-b3ac00962c65)
 - [Customizing the Unreal Engine Crash Report Client Dialog](https://www.bugsplat.com/blog/game-dev/customizing-ue4-crash-dialog/)
 - [How to Build Crashpad (C++ Crash Reporter)](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad/how-to-build-google-crashpad)
 
