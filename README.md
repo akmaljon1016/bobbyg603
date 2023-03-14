@@ -27,7 +27,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 | Repository              | Link                                                       |
 |-------------------------|------------------------------------------------------------|
 | angular                 | https://github.com/angular/angular/pull/43621              |
-| etherium-org-website    | https://github.com/ethereum/ethereum-org-website/pull/8510 |
+| ethereum-org-website    | https://github.com/ethereum/ethereum-org-website/pull/8510 |
 | hotjar                  | https://github.com/hotjar/hotjar-js/pull/10                |
 | ngx-charts              | https://github.com/swimlane/ngx-charts/pull/1637           |
 | ngx-file-drop           | https://github.com/georgipeltekov/ngx-file-drop/pull/283   |
