@@ -24,17 +24,19 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 🔨 I've contributed to
 
-| Repository              | Link                                                    |
-|-------------------------|---------------------------------------------------------|
-| Angular                 | https://github.com/angular/angular/pull/43621           |
-| Hotjar                  | https://github.com/hotjar/hotjar-js/pull/10             |
-| NgxCharts               | https://github.com/swimlane/ngx-charts/pull/1637        |
-| ngb-filterable-dropdown | https://github.com/BugSplat-Git/ngb-filterable-dropdown |
-| ngx-animated-counter    | https://github.com/BugSplat-Git/ngx-animated-counter    |
-| ngx-toggle              | https://github.com/bobbyg603/ngx-toggle                 |
-| is-image-web            | https://github.com/bobbyg603/is-image-web               |
-| is-video-web            | https://github.com/bobbyg603/is-video-web               |
-| is-video                | https://github.com/sindresorhus/is-video/pull/5         |
+| Repository              | Link                                                       |
+|-------------------------|------------------------------------------------------------|
+| angular                 | https://github.com/angular/angular/pull/43621              |
+| etherium-org-website    | https://github.com/ethereum/ethereum-org-website/pull/8510 |
+| hotjar                  | https://github.com/hotjar/hotjar-js/pull/10                |
+| ngx-charts              | https://github.com/swimlane/ngx-charts/pull/1637           |
+| ngx-file-drop           | https://github.com/georgipeltekov/ngx-file-drop/pull/283   |
+| ngb-filterable-dropdown | https://github.com/BugSplat-Git/ngb-filterable-dropdown    |
+| ngx-animated-counter    | https://github.com/BugSplat-Git/ngx-animated-counter       |
+| ngx-toggle              | https://github.com/bobbyg603/ngx-toggle                    |
+| is-image-web            | https://github.com/bobbyg603/is-image-web                  |
+| is-video-web            | https://github.com/bobbyg603/is-video-web                  |
+| is-video                | https://github.com/sindresorhus/is-video/pull/5            |
 
 ## ✍️ I've written about
 
