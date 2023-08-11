@@ -62,6 +62,6 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 📫 How to reach me
 
-[<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
 [<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
+[<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
 [<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
