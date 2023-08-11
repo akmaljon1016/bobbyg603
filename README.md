@@ -2,7 +2,7 @@
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603)
 [![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bobbyg603)
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K4KjjRV5ve)
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UxNXrBukjZ)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bobbyg603)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
@@ -15,7 +15,8 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" width="200px">](https://github.com/BugSplat-Git)
+[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
+[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
 
 ## 🌱 I’m currently learning
 
@@ -54,12 +55,10 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 
 ## 💸 How to support me
 
-![bitcoin badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-[bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg](https://www.blockchain.com/btc/address/bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg)
-
-<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">
+[<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">](https://www.blockchain.com/btc/address/bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg)
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.svg" width="72px">](mailto:bobbyg603@pm.me)
+[<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
+[<img style="margin-left: 6.5px" src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
