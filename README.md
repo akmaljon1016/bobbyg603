@@ -56,13 +56,12 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 [<img src="assets/wdh-ts-types.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-typescript-types-3f04d7b899b4)
 [<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
 
-
 ## 💸 How to support me
-
 
 [<img src="assets/bitcoin.png" alt="bitcoin address" width="180px">](https://www.blockchain.com/btc/address/bc1qpastlmflxq2tqc02pqr725cs7gwre2m46uxchg)
 
 ## 📫 How to reach me
 
+[<img src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
 [<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
-[<img style="margin-left: 6.5px" src="assets/discord.png" height="50px">](https://discord.gg/UxNXrBukjZ)
+[<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
