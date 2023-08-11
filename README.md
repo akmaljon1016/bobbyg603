@@ -54,6 +54,7 @@ I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time
 [<img src="assets/wdh-sync-async.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-sync-async-9ebbfcc393dc)
 [<img src="assets/wdh-imports.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-imports-fe288b1e6005)
 [<img src="assets/wdh-ts-types.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-typescript-types-3f04d7b899b4)
+[<img src="assets/wdh-tsconfig.png" height="100px">](https://medium.com/workingdevshero/copilot-tips-tsconfig-6d24e1fba9c4)
 
 
 ## 💸 How to support me
