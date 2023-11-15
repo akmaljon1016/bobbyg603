@@ -11,7 +11,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
 
-I'm from the USA 🇺🇸, and am currently located in the Eastern Standard Time-Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful fiancé Cassie ❤️.
+I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
 
 ## 🔭 I'm currently working on
 
