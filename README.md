@@ -26,17 +26,17 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 ## 🔨 I've contributed to
 
 [<img src="assets/bugsplat.png" height="50px">](https://github.com/BugSplat-Git)
-[<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pull/43621)
+[<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Abobbyg603+)
+[<img src="assets/supabase.png" height="50px">](https://github.com/supabase/supabase/pulls?q=author%3Abobbyg603+)
 [<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Abobbyg603)
-[<img src="assets/ionic.png" height="50px">](https://github.com/ionic-team/ionic-docs/pull/2855)
-[<img src="assets/ethereum.png" height="50px">](https://github.com/ethereum/ethereum-org-website/pull/8510)
+[<img src="assets/ionic.png" height="50px">](https://github.com/ionic-team/ionic-docs/pulls?q=author%3Abobbyg603+)
+[<img src="assets/ethereum.png" height="50px">](https://github.com/ethereum/ethereum-org-website/pulls?q=author%3Abobbyg603+)
 [<img src="assets/ng-mocks.png" height="50px">](https://github.com/help-me-mom/ng-mocks/pulls?q=author%3Abobbyg603+)
 [<img src="assets/swimlane.png" height="50px">](https://github.com/swimlane/ngx-charts/pulls?q=author%3Abobbyg603+)
+[<img src="assets/hotjar.png" height="50px">](https://github.com/hotjar/hotjar-js/pulls?q=author%3Abobbyg603+)
 [<img src="assets/sindre.png" height="50px">](https://github.com/sindresorhus/is-video/pulls?q=author%3Abobbyg603+)
 [<img src="assets/hanzla.png" height="50px">](https://github.com/1hanzla100/developer-portfolio/pulls?q=author%3Abobbyg603)
 [<img src="assets/georgipeltekov.png" height="50px">](https://github.com/georgipeltekov/ngx-file-drop/pulls?q=author%3Abobbyg603)
-
-
 
 ## ✍️ I've written about
 
